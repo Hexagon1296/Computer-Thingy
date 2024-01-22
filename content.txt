@@ -1,0 +1,11 @@
+= ARCHITECTURE =
+
+24-bit?????????????????
+
+ = INSTRUCTIONS =
+
+format: IIIIIMMM XXXXXXXX YYYYYYYY ZZZZZZZZ
+IIIII: instruction opcode
+MMM: addressing mode, exact details change
+XXXXXXXX YYYYYYYY ZZZZZZZZ: Operands
+
